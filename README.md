@@ -1,12 +1,14 @@
 # BullyFree
 
-BullyFree is a solution for bullyng.
-  - We detect ciberbullyng Hotspots
-  - We analyze the data using A.I.
-  - We predict were will happend the next attack
+BullyFree is a solution for bullying.
+  - We detect cyberbullying Hotspots
+  - We analyse the data using a CNN.
 
 # Our vision
-We belive in a world were technology and social media arent used for cyberbullyng but for constructing and learning, the way it was intended. We seek to transform the social media into a safe place ithout hate speach, we are BullyFree, we belive in making the difference by saving lives. 
+We belive in a world were technology and social media aren’t used for cyberbullying but for learning. We seek to transform social media into a safer place without hate speech. 
+
+We are BullyFree
+We belive in making the difference by saving lives. 
 
 Reference
 
